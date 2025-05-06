@@ -1,7 +1,7 @@
-cd backend
+1. cd backend
 
-node server.js
+2. node server.js
 
-cd frontend
+3. cd frontend
 
-ng serve --open
+4. ng serve --open
