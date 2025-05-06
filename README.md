@@ -1,7 +1,11 @@
 1. cd backend
 
-2. node server.js
+2. npm install
+   
+3. node server.js
 
-3. cd frontend
+4. cd frontend
 
-4. ng serve --open
+5. npm install
+
+6. ng serve --open
